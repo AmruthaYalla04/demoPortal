@@ -1,0 +1,2 @@
+# Check if 'frontend' is being excluded in the parent directory's .gitignore
+# If this file exists and contains 'frontend', remove that line
